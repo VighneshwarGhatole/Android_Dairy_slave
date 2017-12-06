@@ -1,4 +1,7 @@
-#Sun Sep 24 18:48:17 IST 2017
-base.0=/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Wed Dec 06 19:02:10 IST 2017
+base.0=/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57e2dba56b5dca56c02e724b1de4d649308d25be
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89306cc2b4a31dcbb48ae5b8681798619927b9cb/classes.dex
+base.1=/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89306cc2b4a31dcbb48ae5b8681798619927b9cb
+file.0=/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57e2dba56b5dca56c02e724b1de4d649308d25be/classes.dex

@@ -2,13 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/mukesh/AndroidStudioProjects/MyDairy/app/libs/itextpdf-5.1.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f771f4e0dcbac5be9fd43d9c5ef571c781e4eca1">
+        <dex dex="/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_89306cc2b4a31dcbb48ae5b8681798619927b9cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57e2dba56b5dca56c02e724b1de4d649308d25be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/libs/itextpdf-5.1.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f98b4177384bb226f23af39084a4b67b902c1db9">
-        <dex dex="/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/pre-dexed/debug/itextpdf-5.1.1_8aa2e4641523885a58021d41612a6e84dbf68a1d.jar" />
+        <dex dex="/Users/mukesh/AndroidStudioProjects/Android_Dairy_slave/app/build/intermediates/transforms/dex/debug/folders/1000/2/itextpdf-5.1.1_3e52737a1c002f4a773cd978b127186cdb554363/classes.dex" />
     </item>
 
 </items>
